@@ -146,7 +146,3 @@ gunicorn -w 4 app:app
 ## 9. License
 
 本项目使用 [MIT License](LICENSE) 开源许可证。
-
----
-
-以上就是你的 `README.md` 文件内容，它涵盖了从安装到使用的所有步骤。你可以根据项目的具体情况调整内容。
